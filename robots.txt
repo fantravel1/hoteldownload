@@ -1,0 +1,11 @@
+# HotelDownload.com Robots.txt
+# https://hoteldownload.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://hoteldownload.com/sitemap.xml
+
+# Crawl-delay (optional, polite)
+Crawl-delay: 1
