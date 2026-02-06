@@ -1,0 +1,47 @@
+{
+  "name": "HotelDownload.com — Hotel Booking Intelligence",
+  "short_name": "HotelDownload",
+  "description": "Compare the best hotel booking apps and discover proven strategies to save money on hotels worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a56db",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["travel", "utilities", "lifestyle"],
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Booking Apps",
+      "short_name": "Apps",
+      "description": "Browse hotel booking apps",
+      "url": "/apps/"
+    },
+    {
+      "name": "Saving Strategies",
+      "short_name": "Strategies",
+      "description": "Price-saving techniques",
+      "url": "/strategies/"
+    },
+    {
+      "name": "Country Guides",
+      "short_name": "Countries",
+      "description": "Region-specific guides",
+      "url": "/countries/"
+    }
+  ]
+}
